@@ -1,0 +1,4 @@
+3 types of Code
+1) correctness: whenther our code solves our problem correctly
+2) design: how well-written our code is, based on how efficient and readable it is 
+3)style : or how well-formatted our code is visually.
